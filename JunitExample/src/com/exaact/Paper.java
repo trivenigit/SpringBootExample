@@ -6,5 +6,6 @@ public interface Paper {
 	public default void small() {
 		//comments
 		System.out.println("ZXsadcas");
+		System.out.println("ZXsadcas");
 	}
 }
