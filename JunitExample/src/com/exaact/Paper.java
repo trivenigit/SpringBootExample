@@ -5,6 +5,7 @@ public interface Paper {
 
 	public default void small() {
 		//comments
+               //test conflict
 		System.out.println("ZXsadcas");
 		System.out.println("ZXsadcas");
 	}
